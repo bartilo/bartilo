@@ -1,5 +1,5 @@
-- 👋 Hi, I am @bartilocodes
-- 🏀 I’m interested in playing basketball
+- 👋 Hi, I am @bartilo
+- 🏀 I’m interested in playing basketball 
 - 🔰 I'm a beginner at programming
 - 🐍 I’m currently learning python
 
